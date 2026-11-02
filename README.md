@@ -1,2 +1,7 @@
 # RepoKel6SDA
-Seluruh Library Kelompok 6
+# StudiKasus Stack
+https://sda-lp3p.vercel.app/
+
+# StudiKasus Queue
+https://studikasusqueue.vercel.app/
+
